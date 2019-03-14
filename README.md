@@ -1,5 +1,5 @@
 # hello-world
-
+/*记录算法学习
 import java.util.Scanner;
 
 public class page {
