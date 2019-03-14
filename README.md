@@ -1,5 +1,5 @@
 # hello-world
-//记录算法学习过程
+记录算法学习过程
 import java.util.Scanner;
 
 public class page {
