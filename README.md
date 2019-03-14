@@ -1,5 +1,5 @@
 # hello-world
-/*记录算法学习*/;
+/*记录算法学习1*/
 import java.util.Scanner;
 
 public class page {
@@ -11,7 +11,7 @@ public class page {
 		int num = in.nextInt();
 		int[] result = new int[10];
 		for (int i = 1; i <= num; i++) {
-			char[] arr = String.valueOf(i).toCharArray();
+			char[] arr = String.valueOf(i).toCharArray();//将i转换成字符型再放入字符数组arr中
 			for (int j = 0; j < arr.length; j++) {
 				int index = Integer.valueOf(arr[j] + "");
 				result[index] = result[index] + 1;
